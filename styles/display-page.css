@@ -1,0 +1,30 @@
+main, div {
+
+border: 1px solid black;
+
+}
+
+.wrapper {
+  display: block;
+  width: 800px;
+
+}
+
+.row1 {
+ height: 200px;
+
+}
+
+.left-row1 {
+  display: inline-block;
+  width:50%;
+  background-color: green;
+  height: inherit;
+}
+
+.right-row1 {
+  display:inline-block;
+  width:50%;
+  background-color: blue;
+  height: inherit;
+}
