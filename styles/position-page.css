@@ -1,1 +1,35 @@
+img {
 
+ height: 50px;
+ width: 50px;
+ border: 1px solid black;
+ border-radius: 25px;
+
+}
+
+ul {
+ position: relative;
+ list-style: none;
+ text-align: left;
+ display: inline-block;
+ border: 1px solid black;
+ width:90%;
+ 
+}
+
+li {
+
+ position: relative;
+ display: inline-block;
+ border-right: 1px solid black;
+ padding-right: 5px;
+
+}
+
+nav {
+
+ padding:10px;
+ background-color: grey;
+ width: 100%;
+ border: 1px solid black
+}
