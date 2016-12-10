@@ -1,7 +1,6 @@
 body {
 
     background: white no-repeat url('../images/outerspace_landscape.jpeg');
-    background-position: center;
     background-size: cover;
 }
 
@@ -14,7 +13,7 @@ nav {
     height: 70px;
 }
 
-img {
+ img {
     height: 50px;
     width: 50px;
     border: 1px solid black;
@@ -40,15 +39,18 @@ li {
     width: 600px;
     height: 300px;
     border: 10px green dotted;
-    margin: auto;
-    margin-top: 250px;
     position: relative;
+    top: 250px;
+    left: 30%;
+
 }
 
 .main img {
     width: 200px;
     height: 200px;
     position: absolute;
+    border: 0;
+    border-radius: 0;
 }
 
 .cat {
