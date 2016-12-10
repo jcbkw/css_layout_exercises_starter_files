@@ -2,8 +2,7 @@ body {
 
     background: white no-repeat url('../images/outerspace_landscape.jpeg');
     background-position: center;
-
-
+    background-size: cover;
 }
 
 
@@ -42,7 +41,7 @@ li {
     height: 300px;
     border: 10px green dotted;
     margin: auto;
-    margin-top: 30%;
+    margin-top: 250px;
     position: relative;
 }
 
